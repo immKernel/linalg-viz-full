@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./paid-CuvrqE7F.js","./LabGuide-CSWwE7CW.js","./index-DPTqe8me.js","./index-BWWsSK4C.css","./LabGuide-DMZ4qLFT.css"])))=>i.map(i=>d[i]);
+export{r as loadSavedUnlock}from"./loader-DjzFU19H.js";import{t as e}from"./index-DPTqe8me.js";Object.defineProperty(globalThis,"__linalgVizPaidChunk",{value:()=>e(()=>import(`./paid-CuvrqE7F.js`),__vite__mapDeps([0,1,2,3,4]),import.meta.url)});
